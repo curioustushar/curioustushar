@@ -9,5 +9,10 @@
 - 👯 I’m looking to collaborate on open source projects in JS.
 - 🌍 I'm mostly active within the Javascript Communities.
 - 💬 Forum Membership: [Stackoverflow](https://stackoverflow.com/users/2224265)
-- 📫 How to reach me: [@curioustushar](twitter.com/curioustushar)
+- 📫 How to reach me: [@curioustushar](https://twitter.com/curioustushar)
 - ⚡ Fun fact:  I'm fitness freak and yoga lover.
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=curioustushar&show_icons=true&theme=dark)  
+ 
+
+🏡 [Website](https://curioustushar.github.io/) | 🐦 [Twitter](https://twitter.com/curioustushar) | 👔 [LinkedIn](https://in.linkedin.com/in/curioustushar) | [HackerRank](https://www.hackerrank.com/curioustushar) | [Stackoverflow](https://stackoverflow.com/users/2224265)
