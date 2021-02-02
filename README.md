@@ -15,4 +15,6 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=curioustushar&show_icons=true&theme=dark)  
  
 
-🏡 [Website](https://curioustushar.github.io/) | 🐦 [Twitter](https://twitter.com/curioustushar) | 👔 [LinkedIn](https://in.linkedin.com/in/curioustushar) | [HackerRank](https://www.hackerrank.com/curioustushar) | [Stackoverflow](https://stackoverflow.com/users/2224265)
+🏡 [Website](https://curioustushar.github.io/) | 🐦 [Twitter](https://twitter.com/curioustushar) | 👔 [LinkedIn](https://in.linkedin.com/in/curioustushar) | [HackerRank](https://www.hackerrank.com/curioustushar) | [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2224265.svg)](https://stackoverflow.com/users/2224265) 
+
+<a href="https://stackoverflow.com/users/2224265/tushar-gupta"><img src="https://stackoverflow.com/users/flair/2224265.png" width="208" height="58" alt="profile for Tushar Gupta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tushar Gupta at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
