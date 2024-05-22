@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Hyderabad, India.
+#### I'm a Full-Stack Engineer.
 
-- ⚙️ I use daily: `.js`, `Shell script`, `MongoDB`, `Elasticsearch`, `Redis`, `AWS SQS/S3`, `Nginx`, `Linux`, `Queues`, `Caching`
+- ⚙️ I use daily: `Node.js`, `.js`, `Shell script`, `MongoDB`, `Elasticsearch`, `Redis`, `AWS SQS/S3`, `Nginx`, `Linux`, `Queues`, `Caching`
 - 🌱 Learning `Open Source`,`React`, `Cloud`, `Data-driven analytics` and many more (Learning is never ending process)
 - 👯 I’m looking to collaborate on open source projects in JS.
 - 🌍 I'm mostly active within the Javascript Communities.
