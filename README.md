@@ -2,8 +2,8 @@
 
 #### I'm a Full-Stack Engineer.
 
-- ⚙️ I use daily: `Node.js`, `.js`, `Shell script`, `MongoDB`, `Elasticsearch`, `Redis`, `AWS SQS/S3`, `Nginx`, `Linux`, `Queues`, `Caching`, `React`
-- 🌱 `AI`, `RAG`, `Agentic AI`, `Open AI` and many more (Learning is never ending process)
+- ⚙️ I use daily: `Java`, `Node.js`, `.js`, `Shell script`, `MongoDB`, `Elasticsearch`, `Redis`, `AWS SQS/S3`, `Nginx`, `Linux`, `Queues`, `Caching`, `React`
+- 🌱 `AI`, `RAG`, `Agentic AI`, `Open AI`, `MCP`, `LangChain`, `LangGraph` and many more (Learning is never ending process)
 - 👯 I’m looking to collaborate on open source projects.
 - 🌍 I'm mostly active within the Javascript Communities.
 - 💬 Forum Membership: [Stackoverflow](https://stackoverflow.com/users/2224265)
